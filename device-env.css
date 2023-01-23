@@ -1,0 +1,16 @@
+@media (hover: none) and (pointer: coarse) {
+    .untouch-device {
+        display: none;
+    }
+    .touch-device {
+        display: block;
+    }
+    }
+    @media (hover: hover) and (pointer: fine) {
+    .untouch-device {
+        display: block;
+    }
+    .touch-device {
+        display: none;
+    }
+}

@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'nanum-pen';
+    src: url('font_file/Nanum_Pen_Script/NanumPenScript-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'nanum-barun';
+    src: url('font_file/nanum-barun-pen/NanumBarunpenB.ttf') format('truetype');
+}
+
+/*@font-face {
+    font-family: 'italic';
+    src: url('font_file/Rage\ Italic.ttf') format('truetype');
+}*/
+
+@font-face {
+    font-family: 'apalu';
+    src: url('font_file/Apalu.ttf') format('truetype');
+}
